@@ -10,9 +10,11 @@ Furthermore for each image pair we provide a yml file which contains the image n
 If you use this dataset please cite the corresponding paper:
 Ann-Katrin Becker, Oliver Vornberger. Evaluation of Feature Detectors, Descriptors and Match Filtering Approaches for Historic Repeat Photography. Scandinavian Conference on Image Analysis (SCIA), 2019.
 
-@article{becker2018rephoto,
+```TeX
+@article{becker2019rephoto,
 title={Evaluation of Feature Detectors, Descriptors and Match Filtering Approaches for Historic Repeat Photography},
 author={Becker, Ann-Katrin and Vorberger, Oliver},
 journal={Scandinavian Conference on Image Analysis (SCIA)},
 year={2019}
 }
+```
