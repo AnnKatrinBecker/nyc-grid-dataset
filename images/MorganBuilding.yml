@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "MorganBuilding-1917.jpg"
+Image2: "MorganBuilding-2013.jpg"
+Year_Image1: 1917
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.3913745889205424e-01, -1.3357806333085587e-01,
+       2.3689290292745142e+01, -1.6494044229664207e-02,
+       8.9106802374503868e-01, 1.1312752346273058e+01,
+       1.7422441798393290e-05, -3.3604803017350658e-04, 1. ]

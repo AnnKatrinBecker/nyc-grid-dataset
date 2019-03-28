@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "armoryb-1984.jpg"
+Image2: "armoryb-2013.jpg"
+Year_Image1: 1984
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.8165235959857644e-01, 2.1130485839353216e-02,
+       -2.5168138457422380e+00, -2.0816501522238212e-02,
+       9.8991041581453398e-01, 1.2018640899927401e+01,
+       -3.1504490171107251e-05, 4.6503600813285921e-05, 1. ]

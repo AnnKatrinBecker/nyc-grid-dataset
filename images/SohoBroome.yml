@@ -1,0 +1,14 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "SohoBroome-1967.jpg"
+Image2: "SohoBroome-2013.jpg"
+Year_Image1: 1967
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1., 0,  0,
+           0,  1., 0,
+           0,  0,  1. ]

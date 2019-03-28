@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "municipal-1968.jpg"
+Image2: "municipal-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.7134065969246286e-01, -2.0211908077717517e-02,
+       1.3074921649985022e+01, -1.7796862516641240e-02,
+       9.3469956329695802e-01, 3.3097479771359943e+01,
+       -1.7152688791735621e-05, -3.4097974161509444e-05, 1. ]

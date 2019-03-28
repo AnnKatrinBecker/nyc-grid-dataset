@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "StGeorge-1984.jpg"
+Image2: "StGeorge-2013.jpg"
+Year_Image1: 1984
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 8.3535123045158377e-01, -6.1847803644655565e-02,
+       3.5137632037953331e+01, -7.8041010011307185e-02,
+       8.0690569844084270e-01, 4.9235688158679402e+01,
+       -1.3345692450279252e-04, -2.0536814206271686e-04, 1. ]

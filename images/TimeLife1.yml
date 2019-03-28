@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "TimeLife1-1961.jpg"
+Image2: "TimeLife1-2009.jpg"
+Year_Image1: 1961
+Year_Image2: 2009
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.1112617600656698e-01, -9.8818015267144246e-03,
+       3.9105623363383160e+01, -2.3364468213457924e-02,
+       9.3866599654096849e-01, 2.9974114736029815e+01,
+       -3.7806276639882880e-05, -2.6495171014353202e-06, 1. ]

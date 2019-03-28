@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "nassau-1968.jpg"
+Image2: "nassau-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.5695542017836255e-01, 7.1983992371007447e-03,
+       1.2036651563393891e+01, -6.5059186275779293e-02,
+       9.8877923134912682e-01, 5.0691822220886076e+00,
+       2.3083962264111768e-06, -3.9897693481843159e-05, 1. ]

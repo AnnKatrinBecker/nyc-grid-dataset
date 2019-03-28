@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "federal-1968.jpg"
+Image2: "federal-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0242969342072437e+00, -4.6356476214277555e-02,
+       1.4138646688817699e-01, -1.5320668767086949e-02,
+       8.5749041496326428e-01, 3.3080950402704730e+01,
+       1.0034692191837347e-05, -1.3518226988831105e-04, 1. ]

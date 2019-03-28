@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "UnitedNations1-1961.jpg"
+Image2: "UnitedNations1-2009.jpg"
+Year_Image1: 1961
+Year_Image2: 2009
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.6923913597503608e-01, -1.0006741817717847e-03,
+       6.1327691370011221e+00, -1.5151868004483818e-02,
+       1.0004034920010243e+00, 7.8191740142123480e+00,
+       -2.7607293100152833e-05, 1.2759122868415481e-05, 1. ]

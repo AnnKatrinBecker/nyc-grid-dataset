@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "gctc-1913.jpg"
+Image2: "gctc-2013.jpg"
+Year_Image1: 1913
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.1295669405888207e+00, -5.6315630428753238e-01,
+       5.4077730051846522e+01, 1.3773809795722167e-01,
+       6.1752834501857679e-01, 1.7106831758522695e+01,
+       4.9205607056922347e-04, -1.1556850210109092e-03, 1. ]

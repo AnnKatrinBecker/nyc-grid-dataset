@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "UnionSquare-1894.jpg"
+Image2: "UnionSquare-2013.jpg"
+Year_Image1: 1894
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.6807234872084569e-01, -4.9320474639561532e-02,
+       6.9048818051786043e+00, 2.4523994223002825e-02,
+       8.6627354102946441e-01, 6.9365005773028541e+00,
+       -9.7515452227504539e-06, -2.3329913880011085e-04, 1. ]

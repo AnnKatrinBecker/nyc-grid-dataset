@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "gcta-1913.jpg"
+Image2: "gcta-2013.jpg"
+Year_Image1: 1913
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.6473729593563284e-01, -6.3888177621331435e-02,
+       1.1552422229496948e+01, -3.2168417704593083e-02,
+       9.3322221623372270e-01, 1.4520223422701868e+01,
+       -3.5011378127872202e-05, -1.2023355498032745e-04, 1. ]

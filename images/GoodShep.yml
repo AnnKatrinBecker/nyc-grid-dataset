@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "GoodShep-1970.jpg"
+Image2: "GoodShep-2013.jpg"
+Year_Image1: 1970
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.7736508213893714e-01, -2.7722070348085524e-02,
+       1.3755496988405511e+01, -1.6258743787190806e-03,
+       9.6592660788054074e-01, 6.6921619227440541e+00,
+       -1.7529591279570584e-05, -1.9913796168693880e-05, 1. ]

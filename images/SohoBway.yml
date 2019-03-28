@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "SohoBway-1967.jpg"
+Image2: "SohoBway-2013.jpg"
+Year_Image1: 1967
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0115583250930975e+00, 1.6499711744222376e-03,
+       -4.1874396819206243e+00, -8.6687909247545845e-03,
+       1.0120817013899179e+00, -5.1724838403200089e+00,
+       -3.1411644788012527e-06, 1.2574261640015929e-05, 1. ]

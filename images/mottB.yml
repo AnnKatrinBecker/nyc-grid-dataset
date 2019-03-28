@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "mottB-1967.jpg"
+Image2: "mottB-2013.jpg"
+Year_Image1: 1967
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 7.9840698929788767e-01, 1.2016247523758870e-02,
+       2.9923452087482005e+01, -4.0840323409668519e-02,
+       9.2043962809828594e-01, 1.2349101421362635e+01,
+       -3.4695768543231481e-04, 4.2497633504415264e-05, 1. ]

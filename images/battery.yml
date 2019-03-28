@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "battery-1968.jpg"
+Image2: "battery-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 7.1293194392042747e-01, -1.9239654929567113e-01,
+       1.1261240801967048e+02, -2.4843299781575831e-02,
+       7.0607136086222455e-01, 4.9868941152599966e+01,
+       -1.2333586067347582e-04, -3.6814884124732132e-04, 1. ]

@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "sutton-1915.jpg"
+Image2: "sutton-2013.jpg"
+Year_Image1: 1915
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0250321409213188e+00, -1.0571542499408490e-01,
+       2.9445824693257187e+01, -4.6132748308116429e-02,
+       1.0453734822023790e+00, -9.5685721384265214e+00,
+       7.8168160320207438e-06, -8.7008074814280074e-05, 1. ]

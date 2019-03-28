@@ -1,0 +1,13 @@
+%YAML:1.0
+Category: construction
+Difficulty: ""
+Image1: "SouthPoint1-2009.jpg"
+Image2: "SouthPoint1-2012.jpg"
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 7.4964835946294972e-01, 5.1332025383713118e-03,
+       1.1709229909941439e+02, -3.9110580042174270e-02,
+       8.6423644107159991e-01, 4.2950427466086587e+01,
+       -1.3431447342315548e-04, 2.5892008374159373e-05, 1. ]

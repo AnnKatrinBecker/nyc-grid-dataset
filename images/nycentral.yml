@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "nycentral-1942.jpg"
+Image2: "nycentral-2013.jpg"
+Year_Image1: 1942
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0110253613434486e+00, 3.4289628525797797e-02,
+       -2.4478036204222859e+00, -1.6990632193230486e-02,
+       1.0220387169074674e+00, 1.0858627819930872e+01,
+       1.8569920740298662e-05, 7.0989275840505176e-05, 1. ]

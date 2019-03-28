@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "Library-1961.jpg"
+Image2: "Library-2009.jpg"
+Year_Image1: 1961
+Year_Image2: 2009
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0695472359179219e+00, 2.8985180773153315e-02,
+       -2.2585043162160868e+01, 1.5275479497748792e-02,
+       1.0511670627514833e+00, -2.1827304334475272e+01,
+       4.4966610804395807e-05, 1.9000426885913175e-05, 1. ]

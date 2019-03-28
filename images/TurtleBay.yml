@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "TurtleBay-1920.jpg"
+Image2: "TurtleBay-2013.jpg"
+Year_Image1: 1920
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0439266736081869e+00, 7.9078755485016727e-04,
+       -7.4931916326845638e+00, 5.8836285916221264e-03,
+       1.0131424615226474e+00, -1.3995686153273486e+00,
+       3.2532932922974244e-05, 1.6116395866048969e-05, 1. ]

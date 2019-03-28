@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "8thAveA-1937.jpg"
+Image2: "8thAveA-2013.jpg"
+Year_Image1: 1937
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 8.2454219863493983e-01, -8.5632426324066896e-02,
+       4.3475721844959580e+01, -2.0721999870287233e-02,
+       8.0223305393161237e-01, 2.1147525567258587e+01,
+       -1.4299297010982961e-04, -1.9176739802236471e-04, 1. ]

@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "ManhattanBridge-1915.jpg"
+Image2: "ManhattanBridge-2013.jpg"
+Year_Image1: 1915
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.3331582486974007e-01, -1.3339491965455511e-02,
+       2.6527381410738975e+01, -2.4305249710012890e-02,
+       9.1670266041332560e-01, 2.7757792058597456e+01,
+       -5.1243272052259217e-05, 6.7867571707596516e-06, 1. ]

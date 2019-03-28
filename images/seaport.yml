@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "seaport-1968.jpg"
+Image2: "seaport-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0750806633134617e+00, 2.5802164557357576e-02,
+       -1.5989178701621858e+01, 3.2453451621196908e-02,
+       1.0724454687921139e+00, -1.9027276854120768e+01,
+       9.5785118969752647e-05, 2.1971363433819823e-05, 1. ]

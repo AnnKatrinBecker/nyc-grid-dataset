@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "parkave-1960.jpg"
+Image2: "parkave-2013.jpg"
+Year_Image1: 1960
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.6224350867118824e-01, -9.6261408080905875e-03,
+       3.0275628243892836e+00, -9.3259210227618863e-02,
+       9.2398792221816906e-01, 2.1744628068111766e+01,
+       -1.1105110737840828e-04, -8.1267380993339219e-05, 1. ]

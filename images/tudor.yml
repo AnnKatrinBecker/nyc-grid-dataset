@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "tudor-19.jpg"
+Image2: "tudor-2013.jpg"
+Year_Image1: 19
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.8138945073801465e-01, -1.9153043098485217e-01,
+       5.8649108799999020e+01, 6.6457272016032562e-02,
+       7.8862739753411981e-01, 2.0044027987765315e+01,
+       1.4169820543480805e-04, -3.6807467789444286e-04, 1. ]

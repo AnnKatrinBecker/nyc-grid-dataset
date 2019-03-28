@@ -1,0 +1,210 @@
+%YAML:1.0
+ImgPairsHomList:
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/34th-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/34th-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/34th.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/5th1-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/5th1-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/5th1.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/5th2-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/5th2-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/5th2.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/61-1938.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/61-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/61.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/8thAveA-1937.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/8thAveA-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/8thAveA.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/8thAveB-1937.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/8thAveB-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/8thAveB.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/BrooklynBridge-1982.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/BrooklynBridge-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/BrooklynBridge.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/Bull-1916.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/Bull-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/Bull.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/CityHallA-1984.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/CityHallA-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/CityHallA.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/CityHallB-1919.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/CityHallB-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/CityHallB.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/GoodShep-1970.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/GoodShep-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/GoodShep.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/Gramercy-1934.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/Gramercy-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/Gramercy.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/Library-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/Library-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/Library.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/ManhattanBridge-1915.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/ManhattanBridge-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/ManhattanBridge.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/MorganBuilding-1917.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/MorganBuilding-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/MorganBuilding.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/Mott-1900.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/Mott-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/Mott.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/RadioCity-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/RadioCity-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/RadioCity.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/Rockefeller1-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/Rockefeller1-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/Rockefeller1.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SohoBroome-1967.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SohoBroome-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SohoBroome.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SohoBway-1967.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SohoBway-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SohoBway.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SouthPoint1-2009.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SouthPoint1-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SouthPoint1.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SouthPoint4-2009.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SouthPoint4-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SouthPoint4.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SouthPoint5-2009.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SouthPoint5-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SouthPoint5.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SouthPoint6-2009.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SouthPoint6-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SouthPoint6.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/SouthPoint7-2009.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/SouthPoint7-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/SouthPoint7.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/StGeorge-1984.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/StGeorge-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/StGeorge.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/TimeLife1-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/TimeLife1-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/TimeLife1.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/TurtleBay-1920.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/TurtleBay-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/TurtleBay.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/UnionSquare-1894.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/UnionSquare-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/UnionSquare.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/UnitedNations1-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/UnitedNations1-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/UnitedNations1.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/UnitedNations3-1961.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/UnitedNations3-2009.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/UnitedNations3.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/armorya-1984.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/armorya-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/armorya.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/armoryb-1984.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/armoryb-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/armoryb.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/battery-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/battery-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/battery.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/bryanta-1922.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/bryanta-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/bryanta.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/essex-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/essex-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/essex.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/federal-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/federal-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/federal.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/gcpost-1984.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/gcpost-2012.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/gcpost.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/gcta-1913.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/gcta-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/gcta.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/gctb-1913.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/gctb-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/gctb.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/gctc-1913.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/gctc-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/gctc.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/mottB-1967.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/mottB-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/mottB.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/municipal-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/municipal-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/municipal.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/nassau-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/nassau-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/nassau.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/nycentral-1942.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/nycentral-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/nycentral.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/orchard-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/orchard-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/orchard.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/parkave-1960.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/parkave-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/parkave.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/racquet-1965.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/racquet-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/racquet.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/seaport-1968.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/seaport-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/seaport.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/sutton-1915.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/sutton-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/sutton.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/tudor-19.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/tudor-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/tudor.yml"
+   -
+      path_img1: "../../rephoto_data/images/nyc_grid/tunnelexit-1941.jpg"
+      path_img2: "../../rephoto_data/images/nyc_grid/tunnelexit-2013.jpg"
+      path_yml: "../../rephoto_data/images/nyc_grid/tunnelexit.yml"

@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "orchard-1968.jpg"
+Image2: "orchard-2013.jpg"
+Year_Image1: 1968
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.1056519896351271e+00, -5.8551324487838546e-03,
+       -2.1757592061948714e+01, 1.5591515663094939e-02,
+       1.0786049572329770e+00, -3.2670491920630713e+00,
+       1.2475019207922017e-04, -6.2251694579542442e-06, 1. ]

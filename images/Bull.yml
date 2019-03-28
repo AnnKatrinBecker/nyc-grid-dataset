@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "Bull-1916.jpg"
+Image2: "Bull-2013.jpg"
+Year_Image1: 1916
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.0909127967602510e-01, -2.0371162264049263e-02,
+       2.0224959432036982e+01, -6.2895176944597730e-02,
+       9.7616225307201654e-01, 1.2563721862043513e+00,
+       -1.5056147765716934e-04, -3.1961855239797873e-05, 1. ]

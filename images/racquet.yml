@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "racquet-1965.jpg"
+Image2: "racquet-2013.jpg"
+Year_Image1: 1965
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0733774604222235e+00, 7.6067620475982270e-03,
+       -1.3319112802510142e+01, 1.8908266119091920e-02,
+       1.0524055466925197e+00, -1.5283582626069261e+01,
+       4.6068983906895736e-05, 5.2571098398929828e-05, 1. ]

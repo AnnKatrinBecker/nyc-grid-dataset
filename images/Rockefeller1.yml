@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "Rockefeller1-1961.jpg"
+Image2: "Rockefeller1-2009.jpg"
+Year_Image1: 1961
+Year_Image2: 2009
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.2491771524805291e+00, -3.4424578121553473e-02,
+       -1.0558326163491110e+02, 2.7197741397843023e-02,
+       1.0919749834629953e+00, -1.3242063134030403e+01,
+       1.1607141914294916e-04, 8.9187321764126775e-06, 1. ]

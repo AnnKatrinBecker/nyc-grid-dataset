@@ -1,0 +1,15 @@
+%YAML:1.0
+Category: historical
+Difficulty: ""
+Image1: "BrooklynBridge-1982.jpg"
+Image2: "BrooklynBridge-2013.jpg"
+Year_Image1: 1982
+Year_Image2: 2013
+Homography: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.0114472426994765e+00, -3.0703921163060706e-02,
+       8.1263952057263626e+00, 7.2712669307814053e-03,
+       1.0004478802405830e+00, -1.1480966177028651e+00,
+       6.2569646279101192e-06, 1.1436444345725283e-05, 1. ]
